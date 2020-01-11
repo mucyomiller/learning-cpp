@@ -1,0 +1,3 @@
+/Users/mucyofred/Documents/cpp/6-cmake/build/CMakeFiles/rebuild_cache.dir
+/Users/mucyofred/Documents/cpp/6-cmake/build/CMakeFiles/edit_cache.dir
+/Users/mucyofred/Documents/cpp/6-cmake/build/CMakeFiles/main.dir
