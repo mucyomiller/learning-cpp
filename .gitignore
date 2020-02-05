@@ -1,3 +1,4 @@
 #ignore build binary
+.idea
 main
 a.out
